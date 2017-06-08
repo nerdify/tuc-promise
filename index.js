@@ -6,7 +6,7 @@ exports.getBalance = (number) => {
   return new Promise((resolve, reject) => {
     tuc.getBalance(number, (response) => {
       if (tuc.isError(response)) {
-        return reject(response.error.message);
+        return reject(response.error);
       }
 
       resolve(response);
