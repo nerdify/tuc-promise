@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nerdify/node-tuc-promise.git"
+    "url": "git+https://github.com/nerdify/tuc-promise.git"
   },
   "keywords": [
     "tuc",
@@ -17,9 +17,9 @@
   "author": "Hosmel Quintana <hosmelq@gmail.com> (http://hosmelq.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nerdify/node-tuc-promise/issues"
+    "url": "https://github.com/nerdify/tuc-promise/issues"
   },
-  "homepage": "https://github.com/nerdify/node-tuc-promise#readme",
+  "homepage": "https://github.com/nerdify/tuc-promise#readme",
   "dependencies": {
     "tuc": "^0.1.4"
   },
