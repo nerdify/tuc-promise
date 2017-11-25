@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/nerdify/tuc-promise#readme",
   "dependencies": {
-    "tuc": "0.1.4"
+    "tuc": "1.0.4"
   },
   "devDependencies": {
     "xo": "0.18.2"
